@@ -218,12 +218,12 @@
             <span
              class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-lightBlue-600 bg-lightBlue-200 mr-3"
             >
-             <i class="fas fa-ear-listen"></i>
+             <i class="fas fa-earth-africa"></i>
             </span>
            </div>
            <div>
             <h4 class="text-blueGray-500">
-             We are Passionate and Friendly people
+             We are passionate and friendly people
             </h4>
            </div>
           </div>

@@ -1,27 +1,51 @@
-## Project setup
+# A beautiful landing page
 
-```
-npm install
-```
+## Get Started
 
-### Compiles and hot-reloads for development
+### Pages
 
-```
-npm run serve
-```
+### Fully Coded Components
 
-### Compiles and minifies for production
+### CSS Components
 
-```
-npm run build
-```
+### VueJS Components
 
-### Lints and fixes files
+## Table of Contents
 
-```
-npm run lint
-```
+-
 
-### Customize configuration
+## Versions
 
-See [Configuration Reference](https://cli.vuejs.org/config/).
+| Angular | JavaScript / HTML | NextJS | React | Svelte | VueJS |
+| :-----: | :---------------: | :----: | :---: | :----: | :---: |
+
+|
+
+## Documentation
+
+## Quick start
+
+## Files and Folder
+
+## Browser Support
+
+At present, we officially aim to support the last two versions of the following browsers:
+
+| Chrome | Firefox | Edge | Safari | Opera |
+| :----: | :-----: | :--: | :----: | :---: |
+
+|
+
+## Reporting Issues
+
+## Licensing
+
+## Useful Links
+
+-
+
+### Social Media
+
+## Resources
+
+-
