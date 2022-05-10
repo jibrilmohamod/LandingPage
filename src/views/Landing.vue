@@ -22,8 +22,8 @@
          Your story starts with us.
         </h1>
         <p class="mt-4 text-lg text-blueGray-200">
-         Here to solve branding challenges for entrepreneurs and brands through
-         Digital and Print media.
+         Here to solve Marketing challenges for entrepreneurs and businesses
+         through Digital and Print media.
         </p>
         <button class="btn">
          <a href="https://wa.me/254726552233">Talk To Us</a>
